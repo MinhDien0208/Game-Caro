@@ -1,0 +1,13 @@
+D:\TextGame\TextGame\bin\Debug\TextGame.exe.config
+D:\TextGame\TextGame\bin\Debug\TextGame.exe
+D:\TextGame\TextGame\bin\Debug\TextGame.pdb
+D:\TextGame\TextGame\obj\Debug\TextGame.csproj.AssemblyReference.cache
+D:\TextGame\TextGame\obj\Debug\TextGame.Properties.Resources.resources
+D:\TextGame\TextGame\obj\Debug\TextGame.csproj.GenerateResource.cache
+D:\TextGame\TextGame\obj\Debug\TextGame.csproj.CoreCompileInputs.cache
+D:\TextGame\TextGame\obj\Debug\TextGame.exe
+D:\TextGame\TextGame\obj\Debug\TextGame.pdb
+D:\TextGame\TextGame\obj\Debug\TextGame.DangNhap.resources
+D:\TextGame\TextGame\obj\Debug\TextGame.frmGameCaro.resources
+D:\TextGame\TextGame\obj\Debug\TextGame.DangKy.resources
+D:\TextGame\TextGame\obj\Debug\TextGame.PlayerVSCom.resources

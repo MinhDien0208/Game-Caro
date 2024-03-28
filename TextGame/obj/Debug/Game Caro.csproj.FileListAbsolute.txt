@@ -1,0 +1,28 @@
+D:\TextGame\TextGame\bin\Debug\TextGame.exe.config
+D:\TextGame\TextGame\bin\Debug\TextGame.exe
+D:\TextGame\TextGame\bin\Debug\TextGame.pdb
+D:\TextGame\TextGame\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+D:\TextGame\TextGame\obj\Debug\TextGame.DangKy.resources
+D:\TextGame\TextGame\obj\Debug\TextGame.DangNhap.resources
+D:\TextGame\TextGame\obj\Debug\TextGame.frmGameCaro.resources
+D:\TextGame\TextGame\obj\Debug\TextGame.PlayerVSCom.resources
+D:\TextGame\TextGame\obj\Debug\TextGame.Properties.Resources.resources
+D:\TextGame\TextGame\obj\Debug\Game Caro.csproj.GenerateResource.cache
+D:\TextGame\TextGame\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+D:\TextGame\TextGame\obj\Debug\TextGame.exe
+D:\TextGame\TextGame\obj\Debug\TextGame.pdb
+D:\TextGame\TextGame\obj\Debug\TextGame.frmHome.resources
+D:\Niên luận CSN\TextGame\TextGame\bin\Debug\TextGame.exe.config
+D:\Niên luận CSN\TextGame\TextGame\bin\Debug\TextGame.exe
+D:\Niên luận CSN\TextGame\TextGame\bin\Debug\TextGame.pdb
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\TextGame.DangKy.resources
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\TextGame.DangNhap.resources
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\TextGame.frmGameCaro.resources
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\TextGame.frmHome.resources
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\TextGame.PlayerVSCom.resources
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\TextGame.Properties.Resources.resources
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\Game Caro.csproj.GenerateResource.cache
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\TextGame.exe
+D:\Niên luận CSN\TextGame\TextGame\obj\Debug\TextGame.pdb
